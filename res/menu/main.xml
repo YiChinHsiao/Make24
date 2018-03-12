@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/clear_expression"
+        android:icon="@drawable/clear_expression"
+        android:title="Clear"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/skip_puzzle"
+        android:icon="@drawable/skip"
+        android:title="Skip"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/setting"
+        android:title="Setting"
+        app:showAsAction="never" />
+</menu>

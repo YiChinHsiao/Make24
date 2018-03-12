@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Make24</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="number1">1</string>
+    <string name="clear">Clear</string>
+    <string name="play">Play</string>
+    <string name="time">Time</string>
+    <string name="defaultTime">0:00</string>
+    <string name="attempt">Attempt</string>
+    <string name="succeeded">Succeeded</string>
+    <string name="number0">0</string>
+    <string name="skipped">Skipped</string>
+    <string name="signPlus">+</string>
+    <string name="signMinus">-</string>
+    <string name="signMultiple">*</string>
+    <string name="signDivision">/</string>
+    <string name="leftBracket">(</string>
+    <string name="rightBracket">)</string>
+    <string name="delete">&lt;-</string>
+    <string name="done">Done</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
